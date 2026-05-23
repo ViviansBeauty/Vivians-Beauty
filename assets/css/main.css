@@ -8603,8 +8603,8 @@ input, select, textarea {
 			}
 
 			.titulo-principal {
-    font-family: 'Georgia', serif;
-    letter-spacing: 3px;
-    font-weight: 500;
-    color: #111;
-}
+             font-family: 'Georgia', serif;
+             letter-spacing: 3px;
+             font-weight: 500;
+             color: #111; 
+			}
