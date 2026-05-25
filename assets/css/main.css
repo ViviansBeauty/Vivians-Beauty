@@ -8661,14 +8661,12 @@ input, select, textarea {
     padding-bottom: 6rem;
 }
 
-.wrapper.style1 .mini-texto {
-    font-family: 'Montserrat', sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-    font-size: 0.75rem;
-    color: #c7a27c;
+.sparkle {
     display: block;
-    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    color: #c7a27c;
+    margin-bottom: 1.5rem;
+    margin-top: 1.5rem;
 }
 
 .wrapper.style1 h2 {
