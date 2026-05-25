@@ -1,6 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i");
-@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600&display=swap');
 
 /*
 	Story by HTML5 UP
@@ -8604,12 +8604,13 @@ input, select, textarea {
 			}
 
 			.titulo-principal {
-    font-family: 'Parisienne', cursive;
-    font-size: 3.8rem;
-    font-weight: normal;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 4.5rem;
+    font-weight: 500;
+    letter-spacing: 1px;
     color: #111;
-    line-height: 1.1;
-    margin-bottom: 0.3em;
+    line-height: 1;
+    margin-bottom: 0.4em;
 }
 
 .content p {
