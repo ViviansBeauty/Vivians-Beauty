@@ -8605,9 +8605,10 @@ input, select, textarea {
 
 .titulo-principal {
     font-family: 'Cormorant Garamond', serif;
-    font-size: 5rem;
+    font-size: 5.5rem;
     font-weight: 500;
-    line-height: 1;
+    letter-spacing: 1px;
+    line-height: 0.95;
     color: #111;
     margin-bottom: 1rem;
 }
@@ -8631,14 +8632,20 @@ input, select, textarea {
 }
 
 .button.primary {
-    background: #111;
+    background: #c7a27c;
     color: white !important;
     border-radius: 50px;
-    padding: 0 2rem;
+    padding: 0 2.5rem;
     border: none;
-    box-shadow: none;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.85rem;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    transition: all 0.3s ease;
 }
 
 .button.primary:hover {
-    background: #b48b95;
+    background: #111;
+    transform: translateY(-3px);
 }
