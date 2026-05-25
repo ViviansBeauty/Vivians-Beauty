@@ -8654,3 +8654,36 @@ input, select, textarea {
 .banner .content {
     background: #f6f1ec;
 }
+
+.wrapper.style1 {
+    background: linear-gradient(to bottom, #f6f1ec, #ffffff);
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+
+.wrapper.style1 .mini-texto {
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: 0.75rem;
+    color: #c7a27c;
+    display: block;
+    margin-bottom: 1rem;
+}
+
+.wrapper.style1 h2 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 3.5rem;
+    font-weight: 500;
+    color: #111;
+    margin-bottom: 1rem;
+}
+
+.wrapper.style1 p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    line-height: 1.9;
+    color: #666;
+    max-width: 42rem;
+    margin: auto;
+}
