@@ -8605,19 +8605,14 @@ input, select, textarea {
 
 			.titulo-principal {
     font-family: 'Parisienne', cursive;
-    font-size: 4.5rem;
+    font-size: 3.8rem;
     font-weight: normal;
     color: #111;
-    line-height: 1;
-    margin-top: 2rem;
-    margin-bottom: 1rem;
-}
-
-.content {
-    padding-top: 4rem;
+    line-height: 1.1;
+    margin-bottom: 0.3em;
 }
 
 .content p {
-    max-width: 28rem;
-    line-height: 1.8;
+    max-width: 30rem;
+    line-height: 1.7;
 }
