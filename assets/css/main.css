@@ -1,5 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i");
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
 
 /*
 	Story by HTML5 UP
@@ -8603,8 +8604,9 @@ input, select, textarea {
 			}
 
 			.titulo-principal {
-             font-family: 'Georgia', serif;
-             letter-spacing: 3px;
-             font-weight: 500;
-             color: #111; 
-			}
+    font-family: 'Great Vibes', cursive;
+    font-size: 5rem;
+    font-weight: normal;
+    color: #111;
+    letter-spacing: 2px;
+}
