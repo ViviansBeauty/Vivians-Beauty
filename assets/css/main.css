@@ -8748,6 +8748,7 @@ input, select, textarea {
     font-family: 'Cormorant Garamond', serif;
     font-size: 2.5rem;
     margin-bottom: 0.5rem;
+    color: #ffffff !important; /* El !important fuerza el color blanco */
 }
 
 .footer-premium p {
