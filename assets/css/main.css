@@ -8605,7 +8605,19 @@ input, select, textarea {
 
 			.titulo-principal {
     font-family: 'Parisienne', cursive;
-    font-size: 5rem;
+    font-size: 4.5rem;
     font-weight: normal;
     color: #111;
+    line-height: 1;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.content {
+    padding-top: 4rem;
+}
+
+.content p {
+    max-width: 28rem;
+    line-height: 1.8;
 }
