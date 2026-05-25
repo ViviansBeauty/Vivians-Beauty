@@ -1,6 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i");
-@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
 
 /*
 	Story by HTML5 UP
@@ -8604,9 +8604,8 @@ input, select, textarea {
 			}
 
 			.titulo-principal {
-    font-family: 'Great Vibes', cursive;
+    font-family: 'Parisienne', cursive;
     font-size: 5rem;
     font-weight: normal;
     color: #111;
-    letter-spacing: 2px;
 }
