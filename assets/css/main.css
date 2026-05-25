@@ -8649,3 +8649,7 @@ input, select, textarea {
     background: #111;
     transform: translateY(-3px);
 }
+
+.banner .content {
+    background: #f6f1ec;
+}
