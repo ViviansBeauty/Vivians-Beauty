@@ -1,6 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i");
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600&family=Montserrat:wght@300;400;500&display=swap');
 
 /*
 	Story by HTML5 UP
@@ -8603,17 +8603,42 @@ input, select, textarea {
 				box-shadow: none !important;
 			}
 
-			.titulo-principal {
+.titulo-principal {
     font-family: 'Cormorant Garamond', serif;
-    font-size: 4.5rem;
+    font-size: 5rem;
     font-weight: 500;
-    letter-spacing: 1px;
-    color: #111;
     line-height: 1;
-    margin-bottom: 0.4em;
+    color: #111;
+    margin-bottom: 1rem;
 }
 
-.content p {
-    max-width: 30rem;
-    line-height: 1.7;
+.subtitulo {
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: 0.8rem;
+    color: #b48b95;
+    margin-bottom: 1rem;
+}
+
+.descripcion {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    line-height: 1.9;
+    max-width: 28rem;
+    color: #555;
+    margin-bottom: 2rem;
+}
+
+.button.primary {
+    background: #111;
+    color: white !important;
+    border-radius: 50px;
+    padding: 0 2rem;
+    border: none;
+    box-shadow: none;
+}
+
+.button.primary:hover {
+    background: #b48b95;
 }
